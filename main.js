@@ -1,5 +1,5 @@
-let percentageEl = document.getElementById("percentage");
-let bgEl = document.getElementById("container");
+const percentageEl = document.getElementById("percentage");
+const bgEl = document.getElementById("container");
 let value = 0;
 let blurValue;
 let percentageValue;
